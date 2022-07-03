@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRDcPjmfdERVovNFgFpQqWj9b+NbSkmb9DSC6O188BgTP+fdE6pdp7m6ZwVcKEzl5xG8o371A+RE/16IZjg1NQ==",
+  "success": true,
+  "projectFilePath": "/Users/ravy/Downloads/MY ACADELMIC /Spring 2022/CSE 210 - Programming With Classes/Prove/Greed Game/CSE210-RFK-game-.csproj",
+  "expectedPackageFiles": [
+    "/Users/ravy/.nuget/packages/raylib-cs/4.0.0.1/raylib-cs.4.0.0.1.nupkg.sha512",
+    "/Users/ravy/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
